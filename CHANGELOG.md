@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/KhanhTQ-hub/com.localizations.tmpro-font-generator/compare/v1.0.0...v1.0.1) (2025-04-03)
+
+
+### Bug Fixes
+
+* file meta change log ([dadb020](https://github.com/KhanhTQ-hub/com.localizations.tmpro-font-generator/commit/dadb02070a8d352598a08f75251e35dcc11faacf))
+
 # 1.0.0 (2025-04-03)
 
 
