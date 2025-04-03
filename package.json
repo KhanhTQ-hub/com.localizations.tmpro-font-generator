@@ -1,0 +1,14 @@
+{
+  "name": "com.localizations.tmpro-font-generator",
+  "version": "1.0.0",
+  "displayName": "com.localizations.tmpro-font-generator",
+  "description": "Auto generate tmpro font asset.",
+  "author": {
+    "name": "ktgame",
+    "email": "khanhquang0912qh@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  }
+}
