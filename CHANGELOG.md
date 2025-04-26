@@ -1,3 +1,10 @@
+## [1.0.3](https://github.com/KhanhTQ-hub/com.localizations.tmpro-font-generator/compare/v1.0.2...v1.0.3) (2025-04-26)
+
+
+### Bug Fixes
+
+* callback gg sheet ([1e244f4](https://github.com/KhanhTQ-hub/com.localizations.tmpro-font-generator/commit/1e244f47cf1ffa4f5b5a57ed17334453a85a539e))
+
 ## [1.0.2](https://github.com/KhanhTQ-hub/com.localizations.tmpro-font-generator/compare/v1.0.1...v1.0.2) (2025-04-16)
 
 
